@@ -1,0 +1,48 @@
+{
+    "selection": [
+        {
+            "category": "Tiere",
+            "question": "Welcher Vogel ist der größte flugfähige Vogel der Welt?",
+            "option1": "Adler",
+            "option2": "Kondor",
+            "option3": "Albatros",
+            "option4": "Pelikan",
+            "answer": "option3",
+            "explanation": "Der Albatros ist der größte flugfähige Vogel der Welt und kann eine Flügelspannweite von bis zu 3,5 Metern erreichen.",
+            "difficulty": 1
+        },
+        {
+            "category": "Tiere",
+            "question": "Welches Tier ist ein Kaltblüter?",
+            "option1": "Krokodil",
+            "option2": "Schlange",
+            "option3": "Löwe",
+            "option4": "Pferd",
+            "answer": "option1",
+            "explanation": "Krokodile sind Kaltblüter und regulieren ihre Körpertemperatur über die Umgebungstemperatur.",
+            "difficulty": 1
+        },
+        {
+            "category": "Tiere",
+            "question": "Welches Tier ist das schnellste Landtier der Welt?",
+            "option1": "Löwe",
+            "option2": "Gepard",
+            "option3": "Puma",
+            "option4": "Jaguar",
+            "answer": "option2",
+            "explanation": "Der Gepard ist das schnellste Landtier der Welt und kann Geschwindigkeiten von bis zu 120 km/h erreichen.",
+            "difficulty": 1
+        },
+        {
+            "category": "Tiere",
+            "question": "Welches ist das größte Säugetier der Welt?",
+            "option1": "Elefant",
+            "option2": "Wal",
+            "option3": "Krokodil",
+            "option4": "Nashorn",
+            "answer": "option2",
+            "explanation": "Der Wal ist das größte Säugetier der Welt und kann bis zu 33 Meter lang werden.",
+            "difficulty": 1
+        }
+    ]
+}
